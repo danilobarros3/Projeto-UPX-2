@@ -1,5 +1,5 @@
 # Projeto-UPX-2
-Título do projeto: (Utilize um parágrafo para descrever);
+Título do projeto: Hope;
 Descrição: O projeto se baseia em um aplicativo que calcula o quanto você gastou de energia em KW/H a partir da sua conta de energia paga, ele tem a intenção de conscientizar e ajudar aqueles que desejam economizar.
 Pré-requisitos: (Descreva a linguagem, bibliotecas e a IDE utilizada);
 Estrutura do projeto: (Classes utilizadas e suas funções);
