@@ -1,0 +1,16 @@
+package com.mycompany.upx2;
+
+/**
+ * @authors: Lucas Peixoto Nunes; Kaique Gonçalvez Mattos; Felipe Lobo; Danillo Barros;
+ * Elton Aparecido Teixeira.
+ * 
+ * Descrição: criar um software que calcula os gastos de energia a partir da conta paga e incentiva 
+ * a economia e conscientização de acordo com a ODS 7 e meta 7.3.
+ */
+public class UPX2 {
+
+    public static void main(String[] args) {
+        
+        
+    }
+}
