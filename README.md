@@ -23,4 +23,14 @@ O projeto é estruturado em classes com as seguintes funções:
 
 ## Versionamento
 
+## Autores
+
+- Danilo Vieira Barros, 236796, danbarross3@gmail.com
+- Felipe Lobo, 235104, felipe.lobo.hennri@gmail.com
+- Elton Aparecido Teixeira, 237358, eltonsulyvan@hotmail.com
+- Kaique Gonçalves Mattos, 236408, kaiquegmoficial@gmail.com
+- Lucas Peixoto Nunes, 237190, peixotonlucas@gmail.com
+
+
+
 
