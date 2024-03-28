@@ -7,10 +7,36 @@ package com.mycompany.upx2;
  * Descrição: criar um software que calcula os gastos de energia a partir da conta paga e incentiva 
  * a economia e conscientização de acordo com a ODS 7 e meta 7.3.
  */
-public class UPX2 {
 
+/**
+ * Classe responsável pelo cálculo do consumo de energia em KW/H.
+ */
+class Consumo {
+}
+
+/**
+ * Classe para armazenar e manipular as informações da conta de energia.
+ */
+class CalcularMedia {
+}
+
+/**
+ * Classe para interação com o usuário através de uma interface gráfica.
+ */
+class InterfaceUsuario {
+}
+
+/**
+ * Classe projetada para facilitar a interação do usuário com as funcionalidades de cadastro do sistema.
+ */
+class Cadastro {
+}
+
+/**
+ * Classe principal do projeto
+ */
+public class Main {
     public static void main(String[] args) {
-        
-        
+        // Seu código principal deve estar aqui
     }
 }
